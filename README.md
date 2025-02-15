@@ -1,4 +1,4 @@
-# Home-Mining-Italia
+# Home Mining Italia
 Il gruppo nasce come punto di riferimento italiano per i Bitaxe, per poi espandere l'argomento anche ad altri dispositivi di mining domestico.
 ## Disclaimer
 - Questo gruppo non è affiliato a nessuno, siamo degli appassionati di Bitcoin a cui piace sperimentare (perdendo soldi).<br>
