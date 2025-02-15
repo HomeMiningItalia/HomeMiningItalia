@@ -12,7 +12,10 @@ Il gruppo nasce come punto di riferimento italiano per i Bitaxe, per poi espande
 Prima di comprare qualunque cosa è importante capire come funziona il mining, non spendere soldi senza aver prima capito esattamente cosa stai facendo e cosa aspettarti.<br>
 - **Se compro 100 Nerdminer ho più probabilità di minare un blocco?**<br>
 Premettendo che Nerdminer è un ottimo strumento didattico, ha una potenza di potenza poco più di 70 kH/s, quindi anche aquistandone 100 arriveresti ad una potenza talmente bassa da non giustificare la spesa.<br>
-Per avere un paragone, un moderno Antminer S21Pro ha un hashrate di 245 TH/s e servirebbero la bellezza di 3.141.025.641 Nerdminer per eguagliarlo, potete verificare voi stessi la chance di trovare un blocco facendo "solo" mining su [solochance.com](https://solochance.com/)
+Per avere un paragone, un moderno Antminer S21Pro ha un hashrate di 245 TH/s e servirebbero la bellezza di 3.141.025.641 Nerdminer per eguagliarlo, potete verificare voi stessi la chance di trovare un blocco facendo "solo" mining su [solochance.com](https://solochance.com/)<br>
+- **Posso minare con il cellulare?**
+Teoricamente sì, ma tieni conto che l'hashrate sarà molto basso quindi consigliato solo per uso didattico. Si può usare ad esempio questa [guida](https://github.com/smartm0use/smartino).<br>
+Importante: se riuscite togliete la batteria, l'importante è non tenere il telefono in carica 24/24h perché la batteria potrebbe gonfiarsi ed esplodere.
 
 ## Piccola descrizione dei prodotti più comuni 
 - Nerdminer: completamente open source ed ottimo strumento ad USO DIDATTICO (quindi quanto si guadagna? Risposta: niente). Costa dai pochi euro la versione senza schermo a qualche decina di euro la versione con schermo. Ottimo anche come orologio da scrivania.<br>
