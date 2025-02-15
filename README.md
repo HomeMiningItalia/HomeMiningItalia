@@ -11,7 +11,7 @@ Il gruppo nasce come punto di riferimento italiano per i Bitaxe, per poi espande
 - **Cosa posso comprare per iniziare?**<br>
 Prima di comprare qualunque cosa è importante capire come funziona il mining, non spendere soldi senza aver prima capito esattamente cosa stai facendo e cosa aspettarti.<br>
 - **Se compro 100 Nerdminer ho più probabilità di minare un blocco?**<br>
-Premettendo che Nerdminer è un ottimo strumento didattico, ha una potenza di potenza poco più di 70 kH/s, quindi anche aquistandone 100 arriveresti ad una potenza talmente bassa da non giustificare la spesa.<br>
+Premettendo che Nerdminer è un ottimo strumento didattico, ha una potenza di poco più di 70 kH/s, quindi anche aquistandone 100 arriveresti ad una potenza talmente bassa da non giustificare la spesa.<br>
 Per avere un paragone, un moderno Antminer S21Pro ha un hashrate di 245 TH/s e servirebbero la bellezza di 3.141.025.641 Nerdminer per eguagliarlo, potete verificare voi stessi la chance di trovare un blocco facendo "solo" mining su [solochance.com](https://solochance.com/)<br>
 - **Posso minare con il cellulare?**<br>
 Teoricamente sì, ma tieni conto che l'hashrate sarà molto basso quindi consigliato solo per uso didattico. Si può usare ad esempio questa [guida](https://github.com/smartm0use/smartino).<br>
