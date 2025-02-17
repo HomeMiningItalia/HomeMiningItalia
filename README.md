@@ -20,3 +20,21 @@ Importante: se riuscite togliete la batteria, l'importante è non tenere il tele
 ## Piccola descrizione dei prodotti più comuni 
 - Nerdminer: completamente open source ed ottimo strumento ad USO DIDATTICO (quindi quanto si guadagna? Risposta: niente). Costa dai pochi euro la versione senza schermo a qualche decina di euro la versione con schermo. Ottimo anche come orologio da scrivania.<br>
 - Bitaxe: open source tranne il chip ASIC. Lo sviluppo va a gonfie vele e ne esistono tante versioni diverse. Ottimo strumento ad uso didattico, può essere autocostruito e può essere collegato ad una pool. Se lo prendete con l’idea di guadagnare sappiate che probabilmente non ripagherete mai il prezzo di acquisto minando in pool, e minando in solo le probabilità di minare un blocco sono assai remote (sino a quando non approfondite l’argomento potete tranquillamente assumere che la probabilità sia NULLA).
+
+# Risorse
+Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo nel gruppo
+- [**1 - Miner domestici**](#1---Miner-domestici)
+- [**2 - Pool**](#2---Pool)
+  - [**2a - Solo Pool**](#2a---Solo-Pool)
+  - [**2b - Shared Pool**](#2b---Shared-Pool)
+- ## **1 - Miner domestici** 
+    - Bitaxe 
+       - https://bitaxe.org/
+- ## **2 - Pool**
+    - #### **2a - Solo Pool**
+        - Public Pool
+          - https://web.public-pool.io/
+            
+    - #### **2b - Shared Pool**
+         - Ocean
+          - https://ocean.xyz/
