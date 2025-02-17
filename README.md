@@ -27,6 +27,7 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
 - [**2 - Pool**](#2---Pool)
   - [**2a - Solo Pool**](#2a---Solo-Pool)
   - [**2b - Shared Pool**](#2b---Shared-Pool)
+- [**3 - Vari**](#3---Vari)
 - ## **1 - Miner domestici** 
     - Bitaxe 
        - https://bitaxe.org/
@@ -34,7 +35,31 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
     - #### **2a - Solo Pool**
         - Public Pool
           - https://web.public-pool.io/
+        - CKpool
+          - https://eusolo.ckpool.org/
+        - Braiins Solo
+          - https://solo.braiins.com/stats
             
     - #### **2b - Shared Pool**
-         - Ocean
+        - Ocean
           - https://ocean.xyz/
+        - Braiins
+          - https://braiins.com/pool 
+- ## **3 - Vari** 
+    - Calcolatore di profitto 
+       - https://www.nicehash.com/profitability-calculator
+       - https://insights.braiins.com/en/profitability-calculator/
+    - Calcolatore probabilità di minare un blocco in solo
+       - https://solochance.com/
+    - Explorer statistiche mining
+       - https://mempool.space/mining
+    - Stratum Jobs con interfaccia grafica intuitiva
+       - https://mempool.space/stratum
+    - Stratum Jobs con dati
+       - https://stratum.work/
+    - Osservatore delle mining pool (transazioni mancanti, template, etc.)
+       - https://miningpool.observer/
+    - Partire con Stratum V2
+       - https://stratumprotocol.org/getting-started/#i-getting-started---the-easiest-way
+
+           
