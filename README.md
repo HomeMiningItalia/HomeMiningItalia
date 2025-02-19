@@ -70,7 +70,7 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
        - https://miningpool.observer/
     - Partire con Stratum V2
        - https://stratumprotocol.org/getting-started/#i-getting-started---the-easiest-way
-    -Datum Gateway (Ocean Pool)
+    - Datum Gateway (Ocean Pool)
        - https://ocean.xyz/docs/datum
 
            
