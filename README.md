@@ -36,23 +36,32 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
         - Public Pool
           - https://web.public-pool.io/
         - CKpool
-          - https://eusolo.ckpool.org/
+          - https://solo.ckpool.org/ (Server Globale)
+          - https://eusolo.ckpool.org/ (Server Europeo)
         - Braiins Solo
           - https://solo.braiins.com/stats
             
     - #### **2b - Shared Pool**
-        - Ocean
+        - Ocean  TIDES simile a PPLNS Pay Per Last Number Share
           - https://ocean.xyz/
-        - Braiins
-          - https://braiins.com/pool 
-- ## **3 - Vari** 
-    - Calcolatore di profitto 
+        - Braiins Pool FPPS Full Pay Per Share
+          - https://braiins.com/pool
+        - NiceHash (KYC)
+          - https://www.nicehash.com/
+  
+- ## **3 - Vari**
+    - Dashboard Info Bitcoin Clark Moody
+       - https://bitcoin.clarkmoody.com/dashboard/
+    - Mining Calculator
+       - https://whattomine.com/  
        - https://www.nicehash.com/profitability-calculator
        - https://insights.braiins.com/en/profitability-calculator/
     - Calcolatore probabilità di minare un blocco in solo
        - https://solochance.com/
-    - Explorer statistiche mining
-       - https://mempool.space/mining
+    - Explorers Blockchain
+       - https://mempool.space/
+       - https://bits.monospace.live/
+       - https://blockstream.info/
     - Stratum Jobs con interfaccia grafica intuitiva
        - https://mempool.space/stratum
     - Stratum Jobs con dati
@@ -61,5 +70,7 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
        - https://miningpool.observer/
     - Partire con Stratum V2
        - https://stratumprotocol.org/getting-started/#i-getting-started---the-easiest-way
+    - Datum Gateway (Ocean Pool)
+       - https://ocean.xyz/docs/datum
 
            
