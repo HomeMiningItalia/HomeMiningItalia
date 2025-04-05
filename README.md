@@ -16,6 +16,56 @@ Per avere un paragone, un moderno Antminer S21Pro ha un hashrate di 245 TH/s e s
 - **Posso minare con il cellulare?**<br>
 Teoricamente sì, ma tieni conto che l'hashrate sarà molto basso quindi consigliato solo per uso didattico. Si può usare ad esempio questa [guida](https://github.com/smartm0use/smartino).<br>
 Importante: se riuscite togliete la batteria, l'importante è non tenere il telefono in carica 24/24h perché la batteria potrebbe gonfiarsi ed esplodere.
+- **Cosa sono le share e hanno senso nel solo mining?**  
+  Una **share** è una prova di lavoro che un miner invia a una **pool** per dimostrare che sta effettivamente contribuendo con la sua potenza di calcolo nella ricerca di un blocco.  
+  Non è un blocco vero, ma è un hash che soddisfa una difficoltà **più bassa** di quella richiesta dalla rete Bitcoin.
+
+  ### Contesto: il mining
+  In termini semplici, il mining è la ripetizione del processo di hashing dell’**header del blocco**, modificando un parametro chiamato **nonce**, finché non si trova un hash **inferiore a un certo target**.
+
+  - Il target è definito dalla rete e cambia ogni 2016 blocchi.
+  - Se l’hash è inferiore al target, significa che hai trovato un blocco valido.
+
+  ### Come funziona nelle pool?
+  La pool assegna a ciascun miner dei **job** da risolvere, impostando un target molto più facile (cioè una difficoltà più bassa) rispetto a quello della rete.  
+  Essendo la difficoltà più bassa è naturale che i miner trovino molti hash validi, anche se non validi per la rete.
+
+  - Questi hash vengono chiamati **share**
+  - Le share dimostrano che il miner sta lavorando correttamente
+  - Servono per **monitorare il contributo** di ciascun miner
+  - Se l'hash soddisfa anche la difficoltà della rete, la pool ha trovato un blocco e incassa la ricompensa
+
+  Le pool spesso utilizzano un sistema di **difficoltà variabile**, assegnando a ciascun miner una difficoltà personalizzata in base alla sua potenza di calcolo.  
+  In questo modo:
+
+  - I miner più potenti inviano meno share, ma con **peso maggiore**
+  - I miner meno potenti inviano più share, ma con **peso minore**
+
+  Le ricompense della pool vengono divise tra i miner **in base al contributo**.  
+  Ma non conta solo il numero di share inviate, conta anche **quanto erano difficili** (ovvero il loro **peso**).
+
+  ### Metodi di pagamento nelle pool
+
+  Esistono diversi metodi per distribuire le ricompense all'interno di una pool. I più comuni sono:
+
+  - **Pay Per Share (PPS)**  
+    Ogni share ha un valore fisso. I miner vengono pagati **immediatamente** per ogni share inviata, **indipendentemente** dal fatto che la pool trovi o meno un blocco.
+
+  - **Pay Per Last N Shares (PPLNS)**  
+    Le ricompense sono distribuite in base alle **ultime N share** inviate prima della scoperta di un blocco.  
+    In questo sistema, il **peso** delle share e il **momento** in cui sono state inviate influenzano la distribuzione delle ricompense.
+
+  ### Ha senso parlare di share nel solo mining?
+
+  Parlare di share nel **solo mining** può avere senso solo in termini di **monitoraggio tecnico** (es. “sto generando 100k share al secondo a difficoltà X”), ma:
+
+  - Non servono per il pagamento (non c’è una pool)
+  - Non hanno impatto economico (non danno ricompense)
+  - L’unica cosa che conta è **trovare un blocco valido per la rete**
+
+Quindi parlare di *share* nel solo mining ha **solo valore tecnico**, **non economico**.
+
+
 
 ## Piccola descrizione dei prodotti più comuni 
 - Nerdminer: completamente open source ed ottimo strumento ad USO DIDATTICO (quindi quanto si guadagna? Risposta: niente). Costa dai pochi euro la versione senza schermo a qualche decina di euro la versione con schermo. Ottimo anche come orologio da scrivania.<br>
