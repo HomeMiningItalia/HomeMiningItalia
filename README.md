@@ -68,7 +68,7 @@ Importante: se riuscite togliete la batteria, l'importante è non tenere il tele
   **SHA-256** è una funzione di hash crittografica appartenente alla famiglia **SHA-2**, sviluppata dalla **NSA** e standardizzata dal **NIST**.
 
   - **SHA** sta per *Secure Hash Algorithm*
-  - Il numero **256** indica che l’output è lungo **256 bit** (64 caratteri esadecimali)
+  - Il numero **256** indica che l’output è lungo **256 bit** (quindi 64 caratteri esadecimali)
 
   **A cosa serve?**  
   SHA-256 prende in input **qualsiasi dato** (testi, file, blocchi, ecc.) e restituisce un hash:
