@@ -16,7 +16,7 @@ Per avere un paragone, un moderno Antminer S21Pro ha un hashrate di 245 TH/s e s
 - **Posso minare con il cellulare?**<br>
 Teoricamente sì, ma tieni conto che l'hashrate sarà molto basso quindi consigliato solo per uso didattico. Si può usare ad esempio questa [guida](https://github.com/smartm0use/smartino).<br>
 Importante: se riuscite togliete la batteria, l'importante è non tenere il telefono in carica 24/24h perché la batteria potrebbe gonfiarsi ed esplodere.
-- **Cosa sono le share e hanno senso nel solo mining?**  
+- **Cosa sono le share?**  
   Una **share** è una prova di lavoro che un miner invia a una **pool** per dimostrare che sta effettivamente contribuendo con la sua potenza di calcolo nella ricerca di un blocco.  
   Non è un blocco vero, ma è un hash che soddisfa una difficoltà **più bassa** di quella richiesta dalla rete Bitcoin.
 
