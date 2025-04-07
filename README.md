@@ -63,7 +63,7 @@ Importante: se riuscite togliete la batteria, l'importante è non tenere il tele
   - Non hanno impatto economico (non danno ricompense)
   - L’unica cosa che conta è **trovare un blocco valido per la rete**
 
-Quindi parlare di *share* nel solo mining ha **solo valore tecnico**, **non economico**.
+  Quindi parlare di *share* nel solo mining ha **solo valore tecnico**, **non economico**.
 
 
 
