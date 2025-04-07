@@ -64,8 +64,20 @@ Importante: se riuscite togliete la batteria, l'importante è non tenere il tele
   - L’unica cosa che conta è **trovare un blocco valido per la rete**
 
   Quindi parlare di *share* nel solo mining ha **solo valore tecnico**, **non economico**.
+- **Cos'è l'algoritmo SHA-256?**  
+  **SHA-256** è una funzione di hash crittografica appartenente alla famiglia **SHA-2**, sviluppata dalla **NSA** e standardizzata dal **NIST**.
 
+  - **SHA** sta per *Secure Hash Algorithm*
+  - Il numero **256** indica che l’output è lungo **256 bit** (64 caratteri esadecimali)
 
+  **A cosa serve?**  
+  SHA-256 prende in input **qualsiasi dato** (testi, file, blocchi, ecc.) e restituisce un hash:
+
+  - Di **lunghezza fissa** (256 bit)
+  - Che **rappresenta univocamente** l’input
+  - **Non reversibile** (non puoi ottenere l’input partendo dall’hash)
+  - **Deterministico** (stesso input → stesso hash)
+  - **Altamente sensibile**: anche un singolo bit diverso genera un hash totalmente diverso
 
 ## Piccola descrizione dei prodotti più comuni 
 - Nerdminer: completamente open source ed ottimo strumento ad USO DIDATTICO (quindi quanto si guadagna? Risposta: niente). Costa dai pochi euro la versione senza schermo a qualche decina di euro la versione con schermo. Ottimo anche come orologio da scrivania.<br>
@@ -102,7 +114,7 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
   
 - ## **3 - Youtube**
     - Serie di Final Step Bitcoin sul mining
-       - https://www.youtube.com/playlist?list=PLUbYXa060CgzoJJgHUCN6BzwzcDgQaQpY/
+       - https://www.youtube.com/playlist?list=PLUbYXa060CgzoJJgHUCN6BzwzcDgQaQpY
 - ## **4 - Vari**
     - Dashboard Info Bitcoin Clark Moody
        - https://bitcoin.clarkmoody.com/dashboard/
