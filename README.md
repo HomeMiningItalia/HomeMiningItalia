@@ -77,7 +77,8 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
 - [**2 - Pool**](#2---Pool)
   - [**2a - Solo Pool**](#2a---Solo-Pool)
   - [**2b - Shared Pool**](#2b---Shared-Pool)
-- [**3 - Vari**](#3---Vari)
+- [**3 - Youtube**](#3---Youtube)
+- [**4 - Vari**](#4---Vari)
 - ## **1 - Miner domestici** 
     - Bitaxe 
        - https://bitaxe.org/
@@ -99,7 +100,10 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
         - NiceHash (KYC)
           - https://www.nicehash.com/
   
-- ## **3 - Vari**
+- ## **3 - Youtube**
+    - Serie di Final Step Bitcoin su Home Mining
+       - https://www.youtube.com/watch?v=FRzBDEAo-jQ
+- ## **4 - Vari**
     - Dashboard Info Bitcoin Clark Moody
        - https://bitcoin.clarkmoody.com/dashboard/
     - Mining Calculator
