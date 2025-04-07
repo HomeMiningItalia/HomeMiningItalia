@@ -101,8 +101,8 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
           - https://www.nicehash.com/
   
 - ## **3 - Youtube**
-    - Serie di Final Step Bitcoin su Home Mining
-       - https://www.youtube.com/watch?v=FRzBDEAo-jQ
+    - Serie di Final Step Bitcoin sul mining
+       - https://www.youtube.com/playlist?list=PLUbYXa060CgzoJJgHUCN6BzwzcDgQaQpY/
 - ## **4 - Vari**
     - Dashboard Info Bitcoin Clark Moody
        - https://bitcoin.clarkmoody.com/dashboard/
