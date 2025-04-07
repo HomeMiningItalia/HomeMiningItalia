@@ -20,13 +20,13 @@ Importante: se riuscite togliete la batteria, l'importante è non tenere il tele
   Una **share** è una prova di lavoro che un miner invia a una **pool** per dimostrare che sta effettivamente contribuendo con la sua potenza di calcolo nella ricerca di un blocco.  
   Non è un blocco vero, ma è un hash che soddisfa una difficoltà **più bassa** di quella richiesta dalla rete Bitcoin.
 
-  ### Contesto: il mining
+  **Contesto: il mining**<br>
   In termini semplici, il mining è la ripetizione del processo di hashing dell’**header del blocco**, modificando un parametro chiamato **nonce**, finché non si trova un hash **inferiore a un certo target**.
 
   - Il target è definito dalla rete e cambia ogni 2016 blocchi.
   - Se l’hash è inferiore al target, significa che hai trovato un blocco valido.
 
-  ### Come funziona nelle pool?
+  **Come funziona nelle pool?**<br>
   La pool assegna a ciascun miner dei **job** da risolvere, impostando un target molto più facile (cioè una difficoltà più bassa) rispetto a quello della rete.  
   Essendo la difficoltà più bassa è naturale che i miner trovino molti hash validi, anche se non validi per la rete.
 
@@ -44,7 +44,7 @@ Importante: se riuscite togliete la batteria, l'importante è non tenere il tele
   Le ricompense della pool vengono divise tra i miner **in base al contributo**.  
   Ma non conta solo il numero di share inviate, conta anche **quanto erano difficili** (ovvero il loro **peso**).
 
-  ### Metodi di pagamento nelle pool
+  **Metodi di pagamento nelle pool**<br>
 
   Esistono diversi metodi per distribuire le ricompense all'interno di una pool. I più comuni sono:
 
@@ -55,7 +55,7 @@ Importante: se riuscite togliete la batteria, l'importante è non tenere il tele
     Le ricompense sono distribuite in base alle **ultime N share** inviate prima della scoperta di un blocco.  
     In questo sistema, il **peso** delle share e il **momento** in cui sono state inviate influenzano la distribuzione delle ricompense.
 
-  ### Ha senso parlare di share nel solo mining?
+  **Ha senso parlare di share nel solo mining?**<br>
 
   Parlare di share nel **solo mining** può avere senso solo in termini di **monitoraggio tecnico** (es. “sto generando 100k share al secondo a difficoltà X”), ma:
 
