@@ -101,6 +101,9 @@ Alcune risorse divise per argomento che abbiamo condiviso nel corso del tempo ne
         - CKpool
           - https://solo.ckpool.org/ (Server Globale)
           - https://eusolo.ckpool.org/ (Server Europeo)
+        - BTC PoW Lab Hybrid Solo
+          - https://btcpowlab-pool.com/start
+          - Pool SHA256 con vardiff da 1 e distribuzione 85% al finder, 10% agli altri miner idonei e 5% all'operatore. Il finder e escluso dalla quota comunitaria dello stesso blocco. Non garantisce blocchi, ricompense o profitti.
         - Braiins Solo
           - https://solo.braiins.com/stats
             
